@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Shreyasi Doshi 👋
 
-<!--
-**Shreyasii-byte/Shreyasii-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student @ Bennett University
 
-Here are some ideas to get you started:
+📊 Aspiring Business Analyst | Data Analyst | Consultant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+### Business Analysis
+- Stakeholder Engagement
+- Requirements Gathering
+- Business Case Development
+- KPI Reporting
+- Benefits Tracking
+
+### Data Analytics
+- Power BI
+- SQL
+- Python
+- Excel
+- Data Visualization
+
+### Product & Strategy
+- Agile Methodologies
+- User Research
+- Process Analysis
+- Documentation
+- Product Roadmapping
+  
+  
+## Featured Projects
+
+### Business Performance Dashboard
+Built interactive KPI dashboards using Power BI and Excel to monitor business performance and support data-driven decision making.
+
+### Trade Buddy
+Student marketplace platform with focus on user behavior, product growth, and marketplace analytics.
+
+### Bloomify
+Product-led startup project focused on user engagement metrics, growth strategy, and data-backed decision making.
+
+
+## Currently Learning
+
+- Advanced SQL
+- Power BI
+- Data Analytics
+- Statistical Analysis
+- Python for Data Science 
+
+## Let's Connect
+
+💼 LinkedIn: www.linkedin.com/in/shreyasi-doshi
+
+📧 Email: shreyasi.insights@gmail.com
